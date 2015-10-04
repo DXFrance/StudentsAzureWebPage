@@ -39,8 +39,30 @@ Cliquez ensuite sur le bouton Deploy et patientez pendant la création de votre 
 
 <img src="http://blogs.microsoft.fr/azure/files/2015/10/Tuto_Students_WebPage_003.png" />
 
+Une fois créé, il ne vous reste plus qu'à cliquer sur l'adresse affichée pour visualiser votre première page web !
+
+<img src="http://blogs.microsoft.fr/azure/files/2015/10/Tuto_Students_WebPage_004.png" />
+
+Si vous avez envie de personnaliser cette page pour apprendre à manipuler HTML / CSS et JavaScript, vous pouvez passer au scénario avancé.
+Un cours sur la création de site web est également disponible sur <a href="https://www.microsoftvirtualacademy.com/fr-fr/training-courses/crer-un-site-web-quand-on-est-un-vrai-dbutant-12670" target="_blank">Microsoft Virtual Academy</a>.
+
 ### Scénario avancé
 
 Dans ce scénario un peu plus avancé, nous vous proposons de réaliser un "fork" du projet GitHub afin de pouvoir modifier le code source de la page web que vous allez déployer et ainsi la personnaliser !
 
 Pour commencer, vous devez posséder un compte sur GitHub. Il est possible d'en créer un en vous rendant sur <a href="https://github.com/join" target="_blank">cette page</a>.
+Une fois connecté sur GitHub, retournez sur <a href="https://github.com/DXFrance/StudentsAzureWebPage" target="_blank">le projet de page web, cliquez sur le bouton Fork, en haut à droite de la page :
+
+<img src="http://blogs.microsoft.fr/azure/files/2015/10/Tuto_Students_WebPage_005.png" />
+
+Cela a pour effet de dupliquer le projet dans votre compte GitHub, afin de vous permettre de le modifier librement :
+
+<img src="http://blogs.microsoft.fr/azure/files/2015/10/Tuto_Students_WebPage_006.png" />
+
+Pour modifier la page web, deux solutions s'offrent à vous. La première est d'utiliser l'édtieur en ligne de GitHub. Pour cela, cliquez sur le fichier index.html dans la liste des fichiers, puis cliquez sur le bouton éditer, représenté par un crayon :
+
+<img src="http://blogs.microsoft.fr/azure/files/2015/10/Tuto_Students_WebPage_007.png" />
+
+Vous pouvez alors modifier librement le HTML de la page, puis l'enregistrer. Une fois toutes vos modifications effectées, il vous suffit de cliquer sur le bouton Deploy to Azure situé dans le scénario Débutant et de suivre les instructions pour déployer votre page web !
+
+Si vous souhaitez aller plus loin dans la personnalisation, vous pouvez cloner votre nouveau repository sur votre ordinateur, effectuer les modifications que vous souhaitez à l'aide d'un éditeur de code tel que <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>, par exemple.
