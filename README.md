@@ -4,8 +4,8 @@ Le but de ce tutoriel est de vous permettre, en quelques minutes seulements, de 
 
 Ce tutoriel est disponible en deux niveaux :
 
-* Débutant
-* Avancé
+* <a href="#scénario-débutant">Débutant</a>
+* <a href="#scénario-avancé">Avancé</a>
 
 En prérequis, vous devez avoir activé votre compte Microsoft Azure pour DreamSpark depuis <a href="https://www.dreamspark.com/Product/Product.aspx?productid=99" target="_blank">cette page</a> ou en suivant les explications fournies dans <a href="https://channel9.msdn.com/Blogs/Students/Microsoft-Azure-pour-DreamSpark" target="_blank">cette vidéo</a>.
 
@@ -63,6 +63,6 @@ Pour modifier la page web, deux solutions s'offrent à vous. La première est d'
 
 <img src="http://blogs.microsoft.fr/azure/files/2015/10/Tuto_Students_WebPage_007.png" />
 
-Vous pouvez alors modifier librement le HTML de la page, puis l'enregistrer. Une fois toutes vos modifications effectées, il vous suffit de cliquer sur le bouton Deploy to Azure situé dans le scénario Débutant et de suivre les instructions pour déployer votre page web !
+Vous pouvez alors modifier librement le HTML de la page, puis l'enregistrer. Une fois toutes vos modifications effectées, il vous suffit de cliquer sur le bouton Deploy to Azure situé dans <a href="#scénario-débutant">le scénario Débutant</a> et de suivre les instructions pour déployer votre page web !
 
 Si vous souhaitez aller plus loin dans la personnalisation, vous pouvez cloner votre nouveau repository sur votre ordinateur, effectuer les modifications que vous souhaitez à l'aide d'un éditeur de code tel que <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>, par exemple.
