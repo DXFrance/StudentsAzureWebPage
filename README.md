@@ -51,7 +51,7 @@ Un cours sur la création de site web est également disponible sur <a href="htt
 Dans ce scénario un peu plus avancé, nous vous proposons de réaliser un "fork" du projet GitHub afin de pouvoir modifier le code source de la page web que vous allez déployer et ainsi la personnaliser !
 
 Pour commencer, vous devez posséder un compte sur GitHub. Il est possible d'en créer un en vous rendant sur <a href="https://github.com/join" target="_blank">cette page</a>.
-Une fois connecté sur GitHub, retournez sur <a href="https://github.com/DXFrance/StudentsAzureWebPage" target="_blank">le projet de page web, cliquez sur le bouton Fork, en haut à droite de la page :
+Une fois connecté sur GitHub, retournez sur <a href="https://github.com/DXFrance/StudentsAzureWebPage" target="_blank">le projet de page web</a>, cliquez sur le bouton Fork, en haut à droite de la page :
 
 <img src="http://blogs.microsoft.fr/azure/files/2015/10/Tuto_Students_WebPage_005.png" />
 
