@@ -66,3 +66,5 @@ Pour modifier la page web, deux solutions s'offrent à vous. La première est d'
 Vous pouvez alors modifier librement le HTML de la page, puis l'enregistrer. Une fois toutes vos modifications effectées, il vous suffit de cliquer sur le bouton Deploy to Azure situé dans <a href="#scénario-débutant">le scénario Débutant</a> et de suivre les instructions pour déployer votre page web !
 
 Si vous souhaitez aller plus loin dans la personnalisation, vous pouvez cloner votre nouveau repository sur votre ordinateur, effectuer les modifications que vous souhaitez à l'aide d'un éditeur de code tel que <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>, par exemple.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
